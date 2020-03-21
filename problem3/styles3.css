@@ -1,0 +1,32 @@
+
+/*by amit*/
+
+text{
+  color: white;
+}
+button {
+  color: black;
+  background-color: yellow;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  width: 20%;
+  font-size: 30px
+}
+.div{
+  background-color: brown;
+}
+button:hover{
+  background-color: silver;
+  color: white;
+  transition-duration: 0.5s;
+}
+h1{
+  color: white;
+  font-size: 80px;
+}
+.details{
+  color:white;
+}
