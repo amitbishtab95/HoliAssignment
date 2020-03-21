@@ -8,7 +8,7 @@ mid term assignment
 **
 important note
 **Due to the deletion of the README.md file while using (git mergtool) to resolve an error i lost all my work from the repository in total i have completed 3 assignment that time ( 2,3,5) , due to which i need to add those files again.
-To check the same u can go to commit section. 
+To verify this you can go to commit section. 
 **
 **Thank you
 **AMIT BISHT
